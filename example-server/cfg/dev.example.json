@@ -1,0 +1,11 @@
+{
+  "name": "dev",
+  "port": 8080,
+  "https": "http",
+  "hostname": "localhost:8080",
+  "byPassValidation": true,
+  "logging": {
+    "path": "logs",
+    "method": "LOG_AND_STREAM"
+  }
+}
